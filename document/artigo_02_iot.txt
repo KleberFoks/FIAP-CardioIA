@@ -1,0 +1,11 @@
+SISTEMAS DE MONITORAMENTO REMOTO E IOT NA CARDIOLOGIA
+Fonte: PubMed / Digital Health Journal
+
+RESUMO
+O avanço da Internet das Coisas (IoT) permitiu o desenvolvimento de dispositivos wearable de baixo custo capazes de capturar sinais de eletrocardiograma (ECG) de forma contínua. 
+
+APLICAÇÕES DE NLP
+O processamento de linguagem natural (NLP) pode ser aplicado para extrair informações valiosas de prontuários eletrônicos e notas médicas, transformando texto não estruturado em dados acionáveis para triagem automatizada.
+
+RESULTADOS
+A detecção precoce de arritmias através de algoritmos de Machine Learning demonstrou uma sensibilidade superior a 92% em ambientes controlados, abrindo caminho para o monitoramento domiciliar de pacientes de alto risco.

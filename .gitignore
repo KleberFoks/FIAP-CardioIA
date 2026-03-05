@@ -1,0 +1,15 @@
+# Ignorar a pasta de dados pesados que deve ficar apenas no Google Drive
+data/
+
+# Ignorar arquivos temporários de sistemas
+.DS_Store
+Thumbs.db
+
+# Ignorar scripts de download (opcional, mas recomendado se você não quiser o código de download no Git)
+scripts/download_datasets.py
+scripts/download_physionet.py
+scripts/download_100_ecgs.py
+
+# Notas: Como o repositório Git foi iniciado dentro da pasta 'CardioIA', 
+# as pastas 'Fase 1' e 'modelo' que estão fora desta pasta já são 
+# automaticamente ignoradas pelo Git por padrão.

@@ -1,0 +1,11 @@
+ESTUDO DE CASO: INFARTO AGUDO DO MIOCÁRDIO (IAM)
+Fonte: Arquivos Brasileiros de Cardiologia (SciELO)
+
+INTRODUÇÃO
+O Infarto Agudo do Miocárdio (IAM) continua sendo uma das principais causas de morbimortalidade em todo o mundo. Este estudo analisa a eficácia da intervenção coronariana percutânea primária em pacientes idosos.
+
+DISCUSSÃO CLÍNICA
+A triagem rápida e o tempo porta-balão são cruciais para o prognóstico. Fatores de risco como diabetes mellitus e hipertensão arterial sistêmica (HAS) potencializam a gravidade do quadro isquêmico. A análise de dados históricos permite a criação de modelos preditivos que auxiliam na tomada de decisão médica em tempo real.
+
+CONCLUSÃO
+A integração de dados clínicos com modelos de suporte à decisão pode reduzir significativamente as complicações pós-infarto e otimizar os fluxos de atendimento em unidades de terapia intensiva.
